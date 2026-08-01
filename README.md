@@ -1,12 +1,12 @@
-# 🎬 Movie Data Analysis Dashboard using Microsoft Excel
+# Movie Data Analysis Dashboard using Microsoft Excel
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes a dataset of 998 movies using Microsoft Excel. The objective was to practice data cleaning, business analysis, and dashboard creation.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - 998 Movie Records
 - Budget
@@ -20,7 +20,7 @@ This project analyzes a dataset of 998 movies using Microsoft Excel. The objecti
 
 ---
 
-## 🛠 Skills Used
+## Skills Used
 
 - Microsoft Excel
 - Data Cleaning
@@ -36,7 +36,7 @@ This project analyzes a dataset of 998 movies using Microsoft Excel. The objecti
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 - Total Movies
 - Total Budget
@@ -49,7 +49,7 @@ This project analyzes a dataset of 998 movies using Microsoft Excel. The objecti
 
 ---
 
-## 📁 Files
+## Files
 
 - Movie_Data_Analysis.xlsx
 - Dashboard Screenshot
@@ -58,7 +58,7 @@ This project analyzes a dataset of 998 movies using Microsoft Excel. The objecti
 
 ---
 
-## 🚀 What I Learned
+## What I Learned
 
 - Organizing raw datasets
 - Performing business analysis
